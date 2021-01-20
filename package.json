@@ -1,0 +1,29 @@
+{
+  "name": "linebotbullshitme",
+  "version": "1.0.0",
+  "description": "Line Bot for Promoting myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eethan1/linebotbullshitme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eethan1/linebotbullshitme/issues"
+  },
+  "homepage": "https://github.com/eethan1/linebotbullshitme#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
